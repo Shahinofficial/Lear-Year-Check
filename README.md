@@ -3,6 +3,7 @@
 
 int main()
 {
+
   int year;
   
   printf("Enter year: ");
